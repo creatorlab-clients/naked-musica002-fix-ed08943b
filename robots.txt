@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nakedmusica002fix.com.br/sitemap.xml
